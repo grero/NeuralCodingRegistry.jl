@@ -1,0 +1,3 @@
+name = "EventOnsetDecoding"
+uuid = "94a68770-fbcf-47e0-90dc-76bcf70cf6cd"
+repo = "git@github.com:grero/EventOnsetDecoding.jl.git"
