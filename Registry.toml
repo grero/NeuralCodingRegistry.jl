@@ -1,0 +1,6 @@
+name = "NeuralCodingRegistry"
+uuid = "4fcc43f4-aefe-4dae-8c2d-8b2684c394d1"
+repo = "git@github.com:/grero/NeuralCodingRegistry.jl.git"
+description = "Registry for julia code used by the NeuralCodingLab"
+
+[packages]
