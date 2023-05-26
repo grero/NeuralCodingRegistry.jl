@@ -7,3 +7,4 @@ description = "Registry for julia code used by the NeuralCodingLab"
 48e35133-c67d-494f-bc67-285ed7959dbe = { name = "OrthogonalLDA", path = "O/OrthogonalLDA" }
 94a68770-fbcf-47e0-90dc-76bcf70cf6cd = { name = "EventOnsetDecoding", path = "E/EventOnsetDecoding" }
 c4d60adb-60c8-55d6-9a12-9d581dce3acf = { name = "DataProcessingHierarchyTools", path = "D/DataProcessingHierarchyTools" }
+c5b5f41d-6417-4974-a1bf-8957fdc17f70 = { name = "AttractorModels", path = "A/AttractorModels" }
