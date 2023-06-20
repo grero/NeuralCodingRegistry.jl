@@ -1,0 +1,3 @@
+name = "CachedResults"
+uuid = "0e825b22-7e33-4f72-a4cb-20e911aecd06"
+repo = "git@github.com:grero/CachedResults.jl.git"
