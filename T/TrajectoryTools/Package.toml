@@ -1,3 +1,3 @@
 name = "TrajectoryTools"
 uuid = "9ccad825-6289-4415-a6ee-74c853e7b03c"
-repo = "git@github.com:grero/TrajectoryTools.jl.git"
+repo = "https://github.com/grero/TrajectoryTools.jl.git"
