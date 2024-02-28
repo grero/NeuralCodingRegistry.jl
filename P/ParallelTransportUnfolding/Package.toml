@@ -1,0 +1,3 @@
+name = "ParallelTransportUnfolding"
+uuid = "268555e1-3ef2-4898-9b9d-141aa6e53af3"
+repo = "https://github.com/grero/ParallelTransportUnfolding.jl.git"
