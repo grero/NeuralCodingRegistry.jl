@@ -1,0 +1,3 @@
+name = "StandardBasisVectors"
+uuid = "f62bd881-ddd8-4bde-9b42-39ec16b3efff"
+repo = "https://github.com/grero/StandardBasisVectors.jl.git"
