@@ -6,3 +6,6 @@ MultivariateStats = "6f286f6a-111f-5878-ab1e-185364afe411"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 StandardBasisVectors = "f62bd881-ddd8-4bde-9b42-39ec16b3efff"
 StatsAPI = "82ae8749-77ed-4fe6-ae5f-f523153014b0"
+
+["0.1.4-0"]
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
