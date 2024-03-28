@@ -11,6 +11,7 @@ description = "Registry for julia code used by the NeuralCodingLab"
 3c021aa7-dcf5-4377-8829-4c53e85dfcb8 = { name = "LabeledTimeseriesTools", path = "L/LabeledTimeseriesTools" }
 41fc471e-1f5c-4b2d-bbd1-04f3567f437e = { name = "LinearRegressionUtils", path = "L/LinearRegressionUtils" }
 48e35133-c67d-494f-bc67-285ed7959dbe = { name = "OrthogonalLDA", path = "O/OrthogonalLDA" }
+4c630530-b0df-11e8-008a-358fbd1b8883 = { name = "BehaviouralAnalysis", path = "B/BehaviouralAnalysis" }
 94a68770-fbcf-47e0-90dc-76bcf70cf6cd = { name = "EventOnsetDecoding", path = "E/EventOnsetDecoding" }
 9ccad825-6289-4415-a6ee-74c853e7b03c = { name = "TrajectoryTools", path = "T/TrajectoryTools" }
 c4d60adb-60c8-55d6-9a12-9d581dce3acf = { name = "DataProcessingHierarchyTools", path = "D/DataProcessingHierarchyTools" }

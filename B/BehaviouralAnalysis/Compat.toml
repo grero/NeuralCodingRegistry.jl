@@ -1,0 +1,4 @@
+[0]
+BSON = "0.3.2-*"
+Stimulus = "1.3.0-1"
+TrialsAnalysis = "0.22.1-*"
