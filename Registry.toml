@@ -5,6 +5,7 @@ description = "Registry for julia code used by the NeuralCodingLab"
 
 [packages]
 0e825b22-7e33-4f72-a4cb-20e911aecd06 = { name = "CachedResults", path = "C/CachedResults" }
+11ef5f8f-17ac-45eb-b004-b0dd92d25366 = { name = "GammaMixtures", path = "G/GammaMixtures" }
 1fb2cab1-157b-4183-b3d5-38cecae8110a = { name = "SpiketrainGeneration", path = "S/SpiketrainGeneration" }
 268555e1-3ef2-4898-9b9d-141aa6e53af3 = { name = "ParallelTransportUnfolding", path = "P/ParallelTransportUnfolding" }
 275e4ca1-a518-4eac-bc9f-23cc20e68f62 = { name = "DemixedPCA", path = "D/DemixedPCA" }
