@@ -19,4 +19,5 @@ description = "Registry for julia code used by the NeuralCodingLab"
 c4d60adb-60c8-55d6-9a12-9d581dce3acf = { name = "DataProcessingHierarchyTools", path = "D/DataProcessingHierarchyTools" }
 c5379b7d-737a-4cf3-a598-4869b39c4869 = { name = "MDAFiles", path = "M/MDAFiles" }
 c5b5f41d-6417-4974-a1bf-8957fdc17f70 = { name = "AttractorModels", path = "A/AttractorModels" }
+cf94edb6-909a-5f08-bc57-c583b24583cc = { name = "RippleTools", path = "R/RippleTools" }
 f62bd881-ddd8-4bde-9b42-39ec16b3efff = { name = "StandardBasisVectors", path = "S/StandardBasisVectors" }
