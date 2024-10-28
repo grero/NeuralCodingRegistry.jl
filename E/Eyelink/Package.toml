@@ -1,0 +1,3 @@
+name = "Eyelink"
+uuid = "83654edc-39a9-11e9-3850-750e501afe4a"
+repo = "git@github.com:grero/Eyelink.jl.git"
