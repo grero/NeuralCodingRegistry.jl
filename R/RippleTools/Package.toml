@@ -1,3 +1,3 @@
 name = "RippleTools"
 uuid = "cf94edb6-909a-5f08-bc57-c583b24583cc"
-repo = "git@github.com:grero/RippleTools.jl.git"
+repo = "https://github.com/grero/RippleTools.jl.git"
