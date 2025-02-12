@@ -1,0 +1,3 @@
+name = "RecurrentNetworkAnalysis"
+uuid = "2a85ccfc-98a0-47fa-b945-b561fd76af20"
+repo = "https://github.com/grero/RecurrentNetworkAnalysis.jl.git"
