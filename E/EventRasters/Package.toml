@@ -1,0 +1,3 @@
+name = "EventRasters"
+uuid = "3d9f1ba8-ff48-11e8-3a02-0b3de68f1194"
+repo = "https://github.com/grero/EventRasters.jl.git"
