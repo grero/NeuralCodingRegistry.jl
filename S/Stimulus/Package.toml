@@ -1,0 +1,3 @@
+name = "Stimulus"
+uuid = "ab509448-40a1-11e9-3d07-0f59fb2cbde2"
+repo = "git@gitlab.com:grero/Stimulus.jl.git"
