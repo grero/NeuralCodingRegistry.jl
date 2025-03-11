@@ -19,6 +19,7 @@ description = "Registry for julia code used by the NeuralCodingLab"
 4c630530-b0df-11e8-008a-358fbd1b8883 = { name = "BehaviouralAnalysis", path = "B/BehaviouralAnalysis" }
 5d34c7e2-af2b-5530-a1a1-19d0bbe28e18 = { name = "NeuralAnalysis", path = "N/NeuralAnalysis" }
 70172d0b-7d6c-5685-8bb9-d866ed45e707 = { name = "TrialsAnalysis", path = "T/TrialsAnalysis" }
+76b9ae3e-a472-554a-ac77-032b68cfa10e = { name = "Spiketrains", path = "S/Spiketrains" }
 7ebd9591-9401-448a-9f02-49877c6a7c25 = { name = "TimeResolvedDecoding", path = "T/TimeResolvedDecoding" }
 83654edc-39a9-11e9-3850-750e501afe4a = { name = "Eyelink", path = "E/Eyelink" }
 94a68770-fbcf-47e0-90dc-76bcf70cf6cd = { name = "EventOnsetDecoding", path = "E/EventOnsetDecoding" }
