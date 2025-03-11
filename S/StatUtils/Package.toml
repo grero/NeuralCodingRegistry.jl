@@ -1,0 +1,3 @@
+name = "StatUtils"
+uuid = "3d8592d6-65e1-5f96-8dec-2daa08481768"
+repo = "git@github.com:grero/StatUtils.jl.git"
