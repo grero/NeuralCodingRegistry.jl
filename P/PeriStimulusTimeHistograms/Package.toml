@@ -1,0 +1,3 @@
+name = "PeriStimulusTimeHistograms"
+uuid = "b65035a2-a410-559f-91f4-51d26fe2b10d"
+repo = "git@gitlab.com:grero/PeriSimulusTimeHistograms.jl.git"

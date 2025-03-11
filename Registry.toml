@@ -20,6 +20,7 @@ description = "Registry for julia code used by the NeuralCodingLab"
 83654edc-39a9-11e9-3850-750e501afe4a = { name = "Eyelink", path = "E/Eyelink" }
 94a68770-fbcf-47e0-90dc-76bcf70cf6cd = { name = "EventOnsetDecoding", path = "E/EventOnsetDecoding" }
 9ccad825-6289-4415-a6ee-74c853e7b03c = { name = "TrajectoryTools", path = "T/TrajectoryTools" }
+b65035a2-a410-559f-91f4-51d26fe2b10d = { name = "PeriStimulusTimeHistograms", path = "P/PeriStimulusTimeHistograms" }
 c4d60adb-60c8-55d6-9a12-9d581dce3acf = { name = "DataProcessingHierarchyTools", path = "D/DataProcessingHierarchyTools" }
 c5379b7d-737a-4cf3-a598-4869b39c4869 = { name = "MDAFiles", path = "M/MDAFiles" }
 c5b5f41d-6417-4974-a1bf-8957fdc17f70 = { name = "AttractorModels", path = "A/AttractorModels" }

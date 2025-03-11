@@ -1,0 +1,8 @@
+[0]
+EventRasters = "3d9f1ba8-ff48-11e8-3a02-0b3de68f1194"
+Eyelink = "83654edc-39a9-11e9-3850-750e501afe4a"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Spiketrains = "76b9ae3e-a472-554a-ac77-032b68cfa10e"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Stimulus = "ab509448-40a1-11e9-3d07-0f59fb2cbde2"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
