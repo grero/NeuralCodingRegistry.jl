@@ -1,0 +1,3 @@
+name = "CrossTemporalDecoding"
+uuid = "5f61b084-f0ae-11e9-3228-795367f50d3d"
+repo = "https://gitlab.com/grero/CrossTemporalDecoding.jl.git"
